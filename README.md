@@ -33,8 +33,7 @@ Incluye **sistema RPG**, herramientas de **moderación avanzada**, **minijuegos*
 🤖 **Funciones de Grupo**  
 ✔️ Moderación avanzada  
 ✔️ Minijuegos y entretenimiento  
-✔️ Descargas rápidas  
-✔️ Comando principal: `.menugrupo`  
+✔️ Descargas rápidas    
 
 **⊱⋅ ──────────── ⋅⊰**
 
