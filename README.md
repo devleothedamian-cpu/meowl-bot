@@ -27,8 +27,7 @@ Incluye **sistema RPG**, herramientas de **moderación avanzada**, **minijuegos*
 ✔️ Regístrate con `.rpg [nombre] [edad]`  
 ✔️ Compra personajes y mascotas  
 ✔️ Participa en batallas  
-✔️ Sube de nivel y explora  
-✔️ Usa `.menurpg` para más opciones  
+✔️ Sube de nivel y explora   
 
 ⊱⋅ ──────────── ⋅⊰  
 🤖 **Funciones de Grupo**  
@@ -37,13 +36,7 @@ Incluye **sistema RPG**, herramientas de **moderación avanzada**, **minijuegos*
 ✔️ Descargas rápidas  
 ✔️ Comando principal: `.menugrupo`  
 
-⊱⋅ ──────────── ⋅⊰  
-📜 **Comandos esenciales**  
-🛠️ Menú general: `.menu`  
-🎭 Menú RPG: `.menurpg`  
-🏴‍☠️ Menú grupo: `.menugrupo`  
-
-⊱⋅ ──────────── ⋅⊰  
+**⊱⋅ ──────────── ⋅⊰**
 
 ## 👑 **Creador principal**  
 
@@ -72,12 +65,12 @@ pkg update && pkg upgrade -y && pkg install nodejs git -y
 
 ## 2️⃣ Clona el repositorio desde GitHub
 ```bash
-git clone https://github.com/devleothedamian-cpu/Master-cl-ver-bot-.git
+git clone https://github.com/devleothedamian-cpu/meowl-bot.git
 ```
 
 ## 3️⃣ Entra al directorio del bot
 ```bash
-cd Master-cl-ver-bot-
+cd meowl-bot
 ```
 
 ## 4️⃣ Instala módulos necesarios
